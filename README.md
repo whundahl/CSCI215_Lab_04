@@ -3,7 +3,7 @@ JavaScript variables, funtions, and calculations
 
 Name: _______________________________________
 
-## DUE: 17 Sep 2017 @ 11:59 pm
+## DUE: 01 Oct 2017 @ 11:59 pm
 
 ## Instructions:
 Compute the conversion of the American dollar to the British Pound, Estonian Kroon, Canadian Dollar, and Chinese Yuan.
@@ -23,7 +23,7 @@ Create an array named I and initialize the elements to the following string valu
 ## Task 2: convert function
 Create a function named `convert` that has no parameters.
 Inside the `convert` function create the local variables listed below.
-  * Variable named `dollar` that is initialized to `document.getElementByName("dollars")[0].value`
+  * Variable named `dollar` that is initialized to `document.getElementsByName("dollars")[0].value`
   * Variable named `selectElement` that is initialized to `document.getElementById('currency')`
   * Variable named `exchangeRate` that is initialzed to `selectElement.value`
   * Variable named `index` that is initialized to `selectElement.selectedIndex`

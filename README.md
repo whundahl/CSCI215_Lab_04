@@ -1,7 +1,7 @@
 # Lab_04
 JavaScript variables, funtions, and calculations
 
-Name: _______________________________________
+Name: ______William Hundahl__________
 
 ## DUE: 01 Oct 2017 @ 11:59 pm
 
